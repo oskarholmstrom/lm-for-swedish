@@ -1,6 +1,19 @@
 # Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish
 
-This repository will contain contain code, datasets, and model checkpoints for the paper "Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish". The code, datasets, and model checkpoints in this repository have not been published yet and are expected to be released soon. Please stay tuned for updates.
+This repository contains the datasets presented in the paper "Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish".
+
+## Citation
+
+```
+@inproceedings{
+holmstr{\"o}m2023bridging,
+title={Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual {LLM}s for Swedish},
+author={Oskar Holmstr{\"o}m and Jenny Kunz and Marco Kuhlmann},
+booktitle={Workshop on Resources and Representations for Under-Resourced Languages and Domains},
+year={2023},
+url={https://openreview.net/forum?id=DGgEZQe9Bh}
+}
+```
 
 Contact
 
